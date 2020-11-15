@@ -1,9 +1,11 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on Poder Judicial de Catamarca
+- 🖥️ I’m currently working on Poder Judicial de Catamarca
 - 🌱 I’m currently learning NestJS ...
 - 📫 How to reach me: machadomauro.cft@gmail.com
 - 📄 [Take a look my CV](https://drive.google.com/file/d/1s3QOELMEc7XhfdEaV4qTBzSQGpjhMzaI/view?usp=sharing)
+
+####The best way to predict the future is to invent it
 
 ### Connect with me
 <a href="https://linkedin.com/in/mauro-daniel-machado-b27b241b5" rel="nofollow"> <img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="mauro machado" height="80" width="80" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%"> </a>
@@ -19,7 +21,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🖥️ I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
