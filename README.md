@@ -8,6 +8,7 @@
 ## Connect with me
 <a href="https://linkedin.com/in/mauro-daniel-machado-b27b241b5" rel="nofollow"> <img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="mauro machado" height="80" width="80" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%"> </a>
 <div align="center">
+
 ## Languages and tools
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4c787c5c6189ca6ce26a7f1cf5e5d62c4e5f9de96413adee2643b8fdca490877/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" height="80" width="80" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" style="max-width:100%;"> </a>
 <a href="https://nodejs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a8978c9b8559838cebb2515231b3e66a55f8f58032507a9d44616c7bc0f942ff/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="nodejs" height="80" width="80" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;"> </a>
