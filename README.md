@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+- 🔭 I’m currently working on Poder Judicial de Catamarca
+- 🌱 I’m currently learning NestJS ...
+- 📫 How to reach me: machadomauro.cft@gmail.com
+- 📄 [Take a look my CV](https://drive.google.com/file/d/1s3QOELMEc7XhfdEaV4qTBzSQGpjhMzaI/view?usp=sharing)
 
 <!--
 **maurodmachado/maurodmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
