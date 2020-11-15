@@ -5,6 +5,17 @@
 - 📫 How to reach me: machadomauro.cft@gmail.com
 - 📄 [Take a look my CV](https://drive.google.com/file/d/1s3QOELMEc7XhfdEaV4qTBzSQGpjhMzaI/view?usp=sharing)
 
+### Connect with me
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/mauro-daniel-machado-b27b241b5"
+
+### Languages and tools
+ [[params.social]]
+    icon = "react"
+    icon_pack = "fa"
+    link = "//reactjs.com/"
 <!--
 **maurodmachado/maurodmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
