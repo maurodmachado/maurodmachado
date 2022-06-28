@@ -18,10 +18,6 @@
    I currently have knowledge in
    HTML, CSS, JS, JAVA, NODEJS, REACT, REACT NATIVE, SERVERLESS, AWS SERVICES and MONGODB
   </samp>
-     <div>
-          <br>
-         
-     </div>
  </div>
 
 <div align="center">
